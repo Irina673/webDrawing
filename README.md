@@ -10,6 +10,6 @@
 - If the user hovers over the main gif frame, it begins to rotate
 - The sidebar now features only the previews of the cat videos and no filter selections
 - When user hovers over the sidebar images, the images turn into a gif
-- When the sidebar images are pressed, the filter is randomly applied and the gif shifts into the main frame.
+- When the sidebar images are pressed, the filter is applied and the gif shifts into the main frame.
 
 
