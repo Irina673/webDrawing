@@ -1,5 +1,6 @@
 # webDrawing
-**Assignment 1 - HTML and CSS Drawing**
+**Assignment 1 - HTML and CSS Drawing - Remixed**
+***remixed project in the assignment 1 branch***
 
 [Joshua's Original Project](https://github.com/yankeejoshy/webDrawing/tree/assignment1)
 
