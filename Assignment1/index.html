@@ -10,7 +10,7 @@
       body {
         margin: 0; 
         padding: 0;
-        mix-blend-mode: hue;
+        mix-blend-mode: color;
       }
         
       #container {
@@ -168,9 +168,10 @@
     }
     catLaserPic.onmouseover = function() {
         catLaserPic.src = "catLaser.gif";
-        catLaserPic.style.height = "165px"
+        catLaserPic.style.height = "120px";
         catLaserPic.onmouseout = function() {
             catLaserPic.src = "catLaser.png";
+            catLaserPic.style.height = "120px";
         }
     }
     catShakePic.onmouseover = function() {
